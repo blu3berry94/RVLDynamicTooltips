@@ -1,0 +1,2 @@
+net/tokyosu/raritymod/mixin/ItemRarityMixin getItem ()Lnet/minecraft/world/item/Item; m_41720_
+net/tokyosu/raritymod/mixin/ItemRarityMixin getTag ()Lnet/minecraft/nbt/CompoundTag; m_41783_

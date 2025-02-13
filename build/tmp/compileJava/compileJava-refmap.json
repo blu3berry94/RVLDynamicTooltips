@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/tokyosu/raritymod/mixin/ItemRarityMixin": {
+      "getRarity": "Lnet/minecraft/world/item/ItemStack;m_41791_()Lnet/minecraft/world/item/Rarity;"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/tokyosu/raritymod/mixin/ItemRarityMixin": {
+        "getRarity": "Lnet/minecraft/world/item/ItemStack;m_41791_()Lnet/minecraft/world/item/Rarity;"
+      }
+    }
+  }
+}

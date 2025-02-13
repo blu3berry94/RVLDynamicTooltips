@@ -1,0 +1,18 @@
+{
+  "rarity.raritymod.common.name": "Thường",
+  "rarity.raritymod.uncommon.name": "Khá Hiếm",
+  "rarity.raritymod.rare.name": "Hiếm",
+  "rarity.raritymod.epic.name": "Tinh Anh",
+  "rarity.raritymod.legendary.name": "Huyền Thoại",
+  "rarity.raritymod.unique.name": "Giới Hạn",
+  "rarity.raritymod.mythic.name": "Giới Hạn",
+  "rarity.raritymod.god.name": "Truyền Thuyết",
+  "raritymod.common": "",
+  "raritymod.uncommon": "",
+  "raritymod.rare": "",
+  "raritymod.epic": "",
+  "raritymod.legendary": "",
+  "raritymod.unique": "",
+  "raritymod.mythic": "",
+  "raritymod.god": ""
+}
