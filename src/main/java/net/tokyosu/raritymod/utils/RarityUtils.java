@@ -14,6 +14,7 @@ public class RarityUtils {
         if (nbt.contains("Lore")) {
             CompoundTag displayTag = nbt.getCompound("text");
             if (displayTag.contains("Lore")) {
+                // Unused NBT
                 String name = displayTag.getString("Lore");
                 if (name.contains("逢")) {
                     return Constants.RARITY_COMMON;
